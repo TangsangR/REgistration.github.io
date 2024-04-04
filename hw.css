@@ -1,0 +1,47 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: aliceblue;
+}
+table{
+ background-color: rgb(227, 213, 244); 
+ border-width: 5px;
+ background-origin: padding-box;
+ box-shadow: 0 10px 5px 2px gray;
+ 
+}
+.c1{
+  background-color: rgb(229, 26, 154);
+  font-size: 45px;
+  height: 40px;
+    color: rgb(47, 247, 7);
+}
+.input{
+  width: 90%;
+}
+.input1{
+    width: 90%;
+  }
+  .input2{
+    width: 90%;
+    height: 59px;
+  }
+.input3{
+  width: 90%;
+} 
+button{
+  width: 30%;
+  height: 40px;
+  margin-top: 6px;
+  margin-bottom: 6px;
+  background-color: rgb(160, 237, 5);
+}
+input{
+  background-color: rgb(158, 232, 240);
+  border-radius: 5px;
+}
+.file{
+  width: 200px;
+  border-color: 1px solid black;
+}
